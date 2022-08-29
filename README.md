@@ -1,5 +1,5 @@
-# yousician-assignment
-Assignment for yousician assessment
+# assignment
+Assignment for <Placeholder> assessment
 
 ## Pre-requisite
 - Docker engine installed and running
